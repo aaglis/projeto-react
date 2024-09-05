@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.max-w-8xl {
+  max-width: 107.5rem;
+}
+
+.link-style {
+  @apply text-xl font-medium;
+}
